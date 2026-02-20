@@ -5,5 +5,4 @@ function infosEtudiant(nom, note) {
         return nom + " : " + note + "/20 → Ajourné";
     }
 }
-
-console.log(infosEtudiant("Souad", 14));
+console.log(infosEtudiant("Malak", 14));

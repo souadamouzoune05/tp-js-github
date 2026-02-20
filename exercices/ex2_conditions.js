@@ -11,5 +11,4 @@ function fizzBuzz(n) {
         }
     }
 }
-
 fizzBuzz(20);

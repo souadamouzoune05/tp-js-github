@@ -15,6 +15,7 @@ for (let i = 0; i < notes.length; i++) {
         admis++;
     }
 }
+
 let moyenne = somme / notes.length;
 
 console.log("Moyenne :", moyenne);
